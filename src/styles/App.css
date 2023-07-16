@@ -1,0 +1,18 @@
+:root {
+  --main-padding: 60px;
+  --main-font-size: 18px;
+  --main-margin: 25px;
+  --main-link-color: #ec9523;
+  --main-bottom-shadow-width: 70%;
+  --main-bottom-shadow-height: 500px;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: "Darker Grotesque", sans-serif;
+  background-color: #08193d;
+}
